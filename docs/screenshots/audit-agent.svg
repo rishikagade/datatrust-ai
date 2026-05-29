@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <rect width="960" height="600" fill="#f8fafc"/>
+  <rect x="360" y="0" width="600" height="600" fill="#ffffff" stroke="#d6d3d1"/>
+  <text x="398" y="54" font-family="Arial" font-size="30" font-weight="700" fill="#0f172a">AI Audit Agent</text>
+  <text x="398" y="88" font-family="Arial" font-size="17" fill="#475569">customer_master.csv - 58.11/100 - High Risk</text>
+  <rect x="398" y="122" width="268" height="36" rx="18" fill="#ffffff" stroke="#d6d3d1"/>
+  <text x="418" y="145" font-family="Arial" font-size="14" fill="#334155">Which issue should I fix first?</text>
+  <rect x="398" y="190" width="500" height="74" rx="10" fill="#ffffff" stroke="#d6d3d1"/>
+  <text x="422" y="224" font-family="Arial" font-size="13" font-weight="700" fill="#64748b">YOU</text>
+  <text x="422" y="250" font-family="Arial" font-size="16" fill="#0f172a">What should I fix first?</text>
+  <rect x="398" y="292" width="500" height="140" rx="10" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <text x="422" y="326" font-family="Arial" font-size="13" font-weight="700" fill="#64748b">AI ASSISTANT</text>
+  <text x="422" y="356" font-family="Arial" font-size="16" fill="#0f172a">1. Critical Missing Value Check on email</text>
+  <text x="422" y="386" font-family="Arial" font-size="16" fill="#0f172a">2. Critical Duplicate Key Check on customer_id</text>
+  <text x="422" y="416" font-family="Arial" font-size="16" fill="#0f172a">3. High Duplicate Row Check at dataset level</text>
+  <rect x="398" y="500" width="500" height="48" rx="8" fill="#ecfdf5" stroke="#a7f3d0"/>
+  <text x="420" y="529" font-family="Arial" font-size="14" font-weight="700" fill="#047857">Powered by Groq - Llama 3.3 70B - No raw data sent to AI</text>
+</svg>

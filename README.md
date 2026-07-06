@@ -11,7 +11,7 @@ DataTrust AI helps analysts catch data quality problems before a dataset reaches
 
 ## Live Demo
 
-Hosted deployment URL: coming soon after Vercel and Render deployment.
+Hosted deployment URL: https://data-trust-ai.vercel.app
 
 ## Screenshots
 
